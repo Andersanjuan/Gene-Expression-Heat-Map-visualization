@@ -7,10 +7,7 @@ Python 3.x
 Flask
 Pandas
 Seaborn
-Installation
-Clone this repository: git clone https://github.com/examples.git
-Navigate to the gene-expression-heatmap directory: cd examples/gene-expression-heatmap
-Install the required packages: pip install -r requirements.txt
+
 Usage
 Start the Flask application: python app.py
 Open a web browser and navigate to http://localhost:5000
